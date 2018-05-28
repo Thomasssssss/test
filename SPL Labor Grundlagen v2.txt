@@ -1,0 +1,10 @@
+28.5.2018
+SPL
+Thomas
+
+Inhalte:
+Versionskontrolle
+Git-Grundlagen
+Phyton-Grundlagen
+
+Tools für SW-Development

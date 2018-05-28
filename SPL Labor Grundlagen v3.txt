@@ -1,0 +1,13 @@
+28.5.2018
+SPL
+Thomas
+
+Inhalte:
+Versionskotnrolle
+Git-Grundlagen
+Phyten.Grundlaen
+
+Tools für SW-Development
+cmder
+python
+visual studio code
